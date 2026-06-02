@@ -2,7 +2,8 @@
 package com.mycompany.entornogithub;
 
 public class Coches {
-    private String marca;
+    //atributos como la marca del coche su nombre su motor sus kilometros su año su cilindrada
+    private String marca; 
     private double km;
     private int año;
     private int cv;
